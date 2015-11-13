@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\NetworkManager.cs">
+    <Files>
+      <File FileName="Assets\ClientManager.cs" Line="30" Column="1" />
+      <File FileName="Assets\NetworkManager.cs" Line="31" Column="40" />
+      <File FileName="Assets\networkPlayer.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CreateMenuScript.cs" Line="38" Column="36" />
+      <File FileName="Assets\Room_UI.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\touchInputManager.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
